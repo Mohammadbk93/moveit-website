@@ -41,12 +41,10 @@ It helped me improve my layout, styling, and UI organization skills using Bootst
 
 <table>
   <tr>
-    <td><img src="screenshot1.png" width="300"/></td>
-    <td><img src="screenshot2.png" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshot3.png" width="300"/></td>
-    <td><img src="screenshot4.png" width="300"/></td>
+    <td><img src="Moveit 1.png" width="300"/></td>
+    <td><img src="moveit 2.png" width="300"/></td>
+    <td><img src="moveit 3.png" width="300"/></td>
+    <td><img src="Flask_2.png" width="300"/></td>  
   </tr>
 </table>
 
