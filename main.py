@@ -2,12 +2,15 @@ from flask import Flask, request, jsonify, render_template
 import smtplib
 from email.message import EmailMessage
 from datetime import datetime
+import os
+from dotenv import load_dotenv
 
+load_dotenv()  
 
 app = Flask(__name__)
 
-EMAIL_ADDRESS = 'mohammadbagheri07@gmail.com'
-EMAIL_PASSWORD = 'aufb mwji ener rpqj'
+EMAIL_ADDRESS = os.getenv("EMAIL_ADDRESS")
+EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 
 # Route for homepage
 @app.route("/")
