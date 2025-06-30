@@ -28,12 +28,10 @@ defusedxml==0.7.1
 executing==1.2.0
 fastapi==0.115.14
 fastjsonschema==2.16.3
-Flask==3.1.0
 flatbuffers==23.3.3
 fonttools==4.39.4
 fqdn==1.5.1
 greenlet==3.1.1
-gunicorn==23.0.0
 h11==0.16.0
 idna==3.4
 ipykernel==6.23.0
