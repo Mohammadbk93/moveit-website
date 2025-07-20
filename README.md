@@ -17,12 +17,12 @@ It includes a dynamic backend to support the contact form and a visually rich fr
 
 ## 🔧 Tech Stack
 
-### 🖼️ Frontend
+###  Frontend
 - HTML5 / CSS3  
 - Bootstrap 5.3  
 - JS (vanilla + Bootstrap components)  
 
-### 🧠 Backend
+###  Backend
 - Python 3.10  
 - Flask 2.3.2  
 - Gunicorn 20.1.0  
@@ -35,7 +35,7 @@ It includes a dynamic backend to support the contact form and a visually rich fr
 
 ---
 
-## ✨ Features
+##  Features
 
 - 💡 **Responsive Design** using Bootstrap 5  
 - 📧 **Contact Us Form** with email support (via SMTP + Gmail)  
