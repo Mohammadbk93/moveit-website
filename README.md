@@ -8,7 +8,7 @@ It features a modern UI, responsive design, and an integrated **email contact fo
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project simulates a fictional Italian startup called **Move it**, aiming to offer smooth, stress-free moving services.  
 It includes a dynamic backend to support the contact form and a visually rich frontend to engage users.
