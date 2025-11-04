@@ -5,7 +5,6 @@ It features a modern UI, responsive design, and an integrated **email contact fo
 
 🌐 **Live Preview:**  
 👉 [Click here to view the live website](https://moveit-website.onrender.com)
-
 ---
 
 ##  Project Overview
