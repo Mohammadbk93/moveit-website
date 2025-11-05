@@ -14,7 +14,7 @@ It includes a dynamic backend to support the contact form and a visually rich fr
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 ###  Frontend
 - HTML5 / CSS3  
