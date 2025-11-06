@@ -6,7 +6,6 @@ It features a modern UI, responsive design, and an integrated **email contact fo
 🌐 **Live Preview:**  
 👉 [Click here to view the live website](https://moveit-website.onrender.com)
 ---
-
 ##  Project Overview
 
 This project simulates a fictional Italian startup called **Move it**, aiming to offer smooth, stress-free moving services.  
