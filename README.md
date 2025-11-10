@@ -56,7 +56,7 @@ It includes a dynamic backend to support the contact form and a visually rich fr
 
 ---
 
-## 💡 Author
+##  Author
 
 **Mohammad**  
 A Data Scientist & ML Enthusiast  who loves learning new things.
