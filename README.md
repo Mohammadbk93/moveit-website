@@ -43,7 +43,7 @@ It includes a dynamic backend to support the contact form and a visually rich fr
 
 ---
 
-## 🖼️ Project Screenshots
+##  Project Screenshots
 
 <table>
   <tr>
