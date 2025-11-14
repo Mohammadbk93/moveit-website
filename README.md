@@ -33,7 +33,6 @@ It includes a dynamic backend to support the contact form and a visually rich fr
 
 ---
 ##  Features
-
 - 💡 **Responsive Design** using Bootstrap 5  
 - 📧 **Contact Us Form** with email support (via SMTP + Gmail)  
 - 🎡 **Carousel for visual storytelling**  
