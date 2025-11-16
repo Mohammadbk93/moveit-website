@@ -38,7 +38,6 @@ It includes a dynamic backend to support the contact form and a visually rich fr
 - 🧑‍💼 Professional layout with `Home`, `Services`, and `Quote` sections  
 - 🔐 `.env` variables for secure credentials  
 - 📨 Asynchronous email sending (with modal feedback)
-
 ---
 
 ##  Project Screenshots
