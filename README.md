@@ -27,8 +27,8 @@ It includes a dynamic backend to support the contact form and a visually rich fr
 
 ### ☁️ Deployment
 - Hosted on [Render.com](https://render.com)  
-- `Procfile`, `requirements.txt`, and `runtime.txt` used for server setup  
-
+- `Procfile`, `requirements.txt`, and `runtime.txt` used for server setup
+- 
 ---
 ##  Features
 - 💡 **Responsive Design** using Bootstrap 5  
